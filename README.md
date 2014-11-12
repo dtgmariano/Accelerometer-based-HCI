@@ -36,3 +36,9 @@ The sensitivity of the device is calibrated according to the amplitude of the dy
 allowing the placement of the sensor in different body regions, for which the use has some level of motor control. 
 The system was tested successfully in healthy subjects suggesting that the accelerometer can be used in patients with 
 motor disabilities.
+
+DOI:
+10.1109/BRC.2014.6880985
+
+Link:
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6880985&punumber%3D6871744%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6880949%29%26pageNumber%3D2
