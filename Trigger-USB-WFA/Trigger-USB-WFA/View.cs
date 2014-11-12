@@ -71,7 +71,6 @@ namespace Trigger_USB_WFA
         {
             RxString = mySerialPort.ReadExisting();
 
-
             this.Invoke(new EventHandler(ProcessData));
         }
 
