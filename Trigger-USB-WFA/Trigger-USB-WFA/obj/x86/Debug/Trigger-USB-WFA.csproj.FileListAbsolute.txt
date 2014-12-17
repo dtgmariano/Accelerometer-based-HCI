@@ -1,0 +1,9 @@
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger-USB-WFA.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger_USB_WFA.Properties.Resources.resources
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger_USB_WFA.View.resources
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger-USB-WFA.csproj.GenerateResource.Cache
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\bin\Debug\Trigger-USB-WFA.exe
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\bin\Debug\Trigger-USB-WFA.pdb
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger-USB-WFA.exe
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\obj\x86\Debug\Trigger-USB-WFA.pdb
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\Trigger-USB-WFA\Trigger-USB-WFA\bin\Debug\Trigger-USB-WFA.exe.config

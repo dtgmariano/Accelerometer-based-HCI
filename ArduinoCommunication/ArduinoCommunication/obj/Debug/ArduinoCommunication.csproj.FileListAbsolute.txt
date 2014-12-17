@@ -1,0 +1,6 @@
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe.config
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.pdb
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.exe
+C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.pdb
