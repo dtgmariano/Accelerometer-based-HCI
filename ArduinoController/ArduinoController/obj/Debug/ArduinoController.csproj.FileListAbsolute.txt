@@ -1,1 +1,2 @@
 C:\Users\Daniel\GitHub\Accelerometer-based-HCI\ArduinoController\ArduinoController\bin\Debug\ArduinoController.exe.config
+C:\GitHub\Accelerometer-based-HCI\ArduinoController\ArduinoController\bin\Debug\ArduinoController.exe.config
